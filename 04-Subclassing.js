@@ -37,3 +37,4 @@ paidUser1.increaseBalance();
 paidUser1.sayName();
 console.log(paidUser1);
 console.log(paidUser1);
+console.log(paidUser1);
