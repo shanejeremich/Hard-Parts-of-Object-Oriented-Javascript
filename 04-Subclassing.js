@@ -36,3 +36,4 @@ const paidUser1 = paidUserCreator("Rachel", 23, 100);
 paidUser1.increaseBalance();
 paidUser1.sayName();
 console.log(paidUser1);
+console.log(paidUser1);
